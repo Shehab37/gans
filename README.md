@@ -1,1 +1,1 @@
-# the notebooks are still under development and still need lots of changes
+# the notebooks are still under development some of them need changes 
